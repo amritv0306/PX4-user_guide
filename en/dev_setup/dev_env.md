@@ -1,6 +1,6 @@
 # Setting up a Developer Environment (Toolchain)
 
-The *supported platforms* for PX4 development are:
+The *supported platforms* for PX4 development are :-
 - [Ubuntu Linux](../dev_setup/dev_env_linux_ubuntu.md) (Recommended)
 - [Mac OS](../dev_setup/dev_env_mac.md)
 - [Windows (10/11)](../dev_setup/dev_env_windows_wsl.md)
